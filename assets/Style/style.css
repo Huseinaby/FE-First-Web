@@ -41,7 +41,7 @@ footer {
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(160, 0, 0, 0.2);
-    border-radius:40px;
+    border-radius:0px;
     padding: 30px;
     margin-top: 20px;
     margin-left: 20px;
